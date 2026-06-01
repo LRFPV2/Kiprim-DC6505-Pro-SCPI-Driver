@@ -1,4 +1,5 @@
 # Kiprim-DC6505-Pro-SCPI-Driver
+DISCLAIMER: THIS WAS LARGELY CREATED USING CLAUDE SONNET 4.6
 A Python driver for the Kiprim DC6505 Pro power supply + multimeter. Compatible with Kiprim DC605Pro, DC310Pro, DC310S, and OWON SPE3103, communicating over USB-serial using the device's SCPI-like command set.
 
 ## Compatible hardware
@@ -223,4 +224,4 @@ The device uses a plain ASCII serial protocol at 115200 8N1. Commands are newlin
 
 ## License
 
-MIT
+GPL 3.0
